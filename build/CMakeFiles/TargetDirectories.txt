@@ -1,0 +1,7 @@
+/home/castl/deft/build/CMakeFiles/rebuild_cache.dir
+/home/castl/deft/build/CMakeFiles/edit_cache.dir
+/home/castl/deft/build/CMakeFiles/skiplist_test.dir
+/home/castl/deft/build/CMakeFiles/client_non_stop.dir
+/home/castl/deft/build/CMakeFiles/client.dir
+/home/castl/deft/build/CMakeFiles/server.dir
+/home/castl/deft/build/CMakeFiles/deft.dir

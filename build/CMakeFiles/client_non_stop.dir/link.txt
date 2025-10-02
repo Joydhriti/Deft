@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/client_non_stop.dir/test/client_non_stop.cpp.o  -o client_non_stop  libdeft.a -lcityhash -lboost_system -lboost_coroutine -lpthread -libverbs -lmemcached -lgflags 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/server.dir/test/server.cpp.o  -o server  libdeft.a -lcityhash -lboost_system -lboost_coroutine -lpthread -libverbs -lmemcached -lgflags 
